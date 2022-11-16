@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi, my name is Jeremy and I am a computer science student at the Universit of Colorado Boulder. 
+            Hello, my name is Jeremy and I am a computer science student at the Universit of Colorado Boulder. 
             The computer science field which intersts me the most is AI and machine learning. I am planning on minnoring in business
             and maybe double majoring in business and computer science. I have a couple of hobbies that I love doing in my free time 
             which include tennis, spikeball, and video games.
